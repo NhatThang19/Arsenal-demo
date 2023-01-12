@@ -156,7 +156,7 @@
 #slider {
     position: relative;
     margin-top: 4px;
-    background: url("../img/Slider/slider1.jpg") top center / cover no-repeat;
+    background: url(../img/Slider/slider1.jpg) top center / cover no-repeat;
     padding-top: 50%;
 }
 
