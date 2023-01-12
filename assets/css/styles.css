@@ -81,7 +81,7 @@
     top: 0;
     left: 0;
     right: 0;
-    z-index: 1;
+    z-index: 2;
 }
 
 /* nav */
@@ -155,7 +155,7 @@
 
 #slider {
     position: relative;
-    margin-top: 46px;
+    margin-top: 4px;
     background: url("../img/Slider/slider1.jpg") top center / cover no-repeat;
     padding-top: 50%;
 }
