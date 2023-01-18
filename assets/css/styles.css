@@ -82,7 +82,7 @@
     top: 0;
     left: 0;
     right: 0;
-    z-index: 2;
+    z-index: 1;
     overflow: hidden;
 }
 
@@ -160,7 +160,7 @@
 
 #slider {
     position: relative;
-    margin-top: 4px;
+    margin-top: 46px;
     background: url(../img/Slider/slider1.jpg) top center / cover no-repeat;
     padding-top: 50%;
 }
