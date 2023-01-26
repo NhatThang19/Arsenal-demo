@@ -183,6 +183,8 @@
     margin-right: auto;
     text-align: center;
     color:#ff0000;
+    padding-left: 16px;
+    padding-right: 16px;
 }
 
 #content .section-heading {
@@ -274,7 +276,7 @@
 }
 
 .place-list {
-    margin-top: 32px;
+    margin-top: 16px;
 }
 
 .place-img {

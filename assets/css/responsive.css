@@ -14,6 +14,10 @@
 
 /* mobile */
 @media (max-width: 740px) {
+    .s-col-full {
+        width: 100%;
+    }
+
     #header {
         overflow: hidden;
     }
@@ -34,7 +38,7 @@
         padding: 1px 24px;
     }
 
-    #nav li:first-child {
+    #nav > li:first-child {
         display: inline-block;
     }
 
@@ -47,9 +51,24 @@
     #nav .subnav a {
         color: #fff;
         padding: 5px 37px;
+        width: auto;
     }
 
     .search-btn {
         display: none;
     }
+
+    #content .member-list {
+        margin-top: 0;
+    }
+
+    #content .member-item {
+        width: 100%;
+        padding-top: 30px;
+    }
+
+    #content .member-img {
+        width: 60%;
+    }
+
 }
