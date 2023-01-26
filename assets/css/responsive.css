@@ -14,8 +14,39 @@
 
 /* mobile */
 @media (max-width: 740px) {
+    #header {
+        overflow: hidden;
+    }
+
+    #header .mobile-menu-btn {
+        display: block;
+    }
+
+    #nav {
+        display: block;
+    }
+
     #nav li {
         display: block;
+    }
+
+    #nav li a {
+        padding: 1px 24px;
+    }
+
+    #nav li:first-child {
+        display: inline-block;
+    }
+
+    #nav .subnav {
+        position: inherit;
+        background-color: #ff0000;
+        color: #fff;
+    }
+
+    #nav .subnav a {
+        color: #fff;
+        padding: 5px 37px;
     }
 
     .search-btn {
