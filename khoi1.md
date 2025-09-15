@@ -16,5 +16,9 @@
  • Hồi quy đơn biến chỉ sử dụng một đặc trưng, phù hợp với các bài toán đơn giản.
  • Hồi quy đa biến sử dụng nhiều đặc trưng, cho phép mô hình học được các mối quan
  hệ phức tạp hơn giữa các đặc trưng và đầu ra.
+<<<<<<< HEAD
 zzz
 im batman
+=======
+zzz
+>>>>>>> 36b0464 (Add newline at end of file and append 'zzz' to khoi1.md)
