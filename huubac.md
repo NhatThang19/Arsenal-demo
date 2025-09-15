@@ -11,7 +11,7 @@ Và một máy tính khác nếu họ có quyền truy cập cũng có thể clo
 
 Lập trình viên có thể xem lại danh sách các sự thay đổi của file như xem một dòng thời gian của các phiên bản. Mỗi phiên bản bao gồm: nội dung file bị thay đổi, ngày giờ sửa đổi, người thay đổi là ai, lý do thay đổi hay tên phiên bản…
 
-Tìm việc làm GIT lương cao tại Topdev
+Tìm việc làm GIT lương cao tại Topdevkk
 
 VCS có tác dụng như thế nào?
 Lưu lại lịch sử các version của bất kỳ thay đổi nào của dự án. Giúp xem lại các sự thay đổi hoặc khôi phục (revert) lại sau này.
