@@ -4,4 +4,7 @@ Link: [https://nhatthang19.github.io/Arsenal-demo/](https://nhatthang19.github.i
 
 # Ahihi đồ ngốc nhưng to hơn
 
-# Ahihi đồ ngốc N
+# Test rebase lần thứ N
+
+# Test rebase lần thứ N + 1
+
