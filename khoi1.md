@@ -16,3 +16,10 @@
  • Hồi quy đơn biến chỉ sử dụng một đặc trưng, phù hợp với các bài toán đơn giản.
  • Hồi quy đa biến sử dụng nhiều đặc trưng, cho phép mô hình học được các mối quan
  hệ phức tạp hơn giữa các đặc trưng và đầu ra.
+
+• w=[w0,w1,...,wn]T: Vector trọng số (bao gồm bias w0).
+ • x=[1,x1,x2,...,xn]T: Vector đặc trưng (thêm 1 để tương ứng với bias).
+ Sự khác biệt chính giữa hồi quy tuyến tính đơn biến và đa biến nằm ở số lượng đặc trưng:
+ • Hồi quy đơn biến chỉ sử dụng một đặc trưng, phù hợp với các bài toán đơn giản.
+ • Hồi quy đa biến sử dụng nhiều đặc trưng, cho phép mô hình học được các mối quan
+ hệ phức tạp hơn giữa các đặc trưng và đầu ra.
