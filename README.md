@@ -8,4 +8,7 @@ Link: [https://nhatthang19.github.io/Arsenal-demo/](https://nhatthang19.github.i
 
 # Test rebase lần thứ N + 1
 
+<<<<<<< HEAD
 # Test rebase lần thứ N + 1 + 1
+=======
+>>>>>>> b4e84d6 (Hổng biết nói gì)
